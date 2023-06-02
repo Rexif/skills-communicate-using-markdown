@@ -28,3 +28,7 @@ sql4 :=
 	  not exists (select * from gifGraphics G where G.wID = W.wID);\
  
  ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
